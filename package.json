@@ -1,0 +1,24 @@
+{
+  "name": "cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidineiramossilva/cucumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidineiramossilva/cucumber/issues"
+  },
+  "homepage": "https://github.com/sidineiramossilva/cucumber#readme",
+  "dependencies": {
+    "@cucumber/cucumber": "^12.2.0",
+    "selenium-webdriver": "^4.37.0"
+  }
+}
